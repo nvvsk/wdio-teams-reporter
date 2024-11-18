@@ -1,0 +1,8 @@
+src
+.idea
+node_modules
+test
+reports
+lib/test
+logs
+
