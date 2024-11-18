@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#compiled TS
+lib/
+
+#package lock
+package-lock.json
