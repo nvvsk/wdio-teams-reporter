@@ -1,6 +1,6 @@
 {
   "name": "wdio-teams-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Srikar Koundinya",
     "email": "info@nvvsk.com"
@@ -14,7 +14,8 @@
     "symlink": "npm link"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/nvvsk/wdio-teams-reporter.git"
   },
   "keywords": [
     "teams",
